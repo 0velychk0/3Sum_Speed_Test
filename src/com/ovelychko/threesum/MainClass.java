@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
  *
  * @author ovelychko
  */
-public class MainClass {
+public static class MainClass {
 
     public static List<List<Integer>> threeSumBruteforce(int[] nums) {
 
