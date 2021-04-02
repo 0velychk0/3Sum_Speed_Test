@@ -12,7 +12,7 @@
 <br>git push
 <br>
 <br># To build
-<br>export JAVA_HOME=/usr/lib/jvm/java-1.11.0-openjdk-amd64
+<br>export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
 <br>mvn complile
 <br>mvn package
-<br>mvn exec:java -Dexec.mainClass="com.ovelychko.threesum.MainClass"
+<br>mvn exec:java -Dexec.mainClass=com.ovelychko.threesum.MainClass
