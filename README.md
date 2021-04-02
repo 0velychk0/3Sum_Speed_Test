@@ -6,8 +6,9 @@
 
 <br># to submit change 
 <br>git init
-<br>git commit -m "XXXXXX"
 <br>git add <filename>
+<br>git rm <filename>
+<br>git commit -m "XXXXXX"
 <br>git status
 <br>git push
 <br>
